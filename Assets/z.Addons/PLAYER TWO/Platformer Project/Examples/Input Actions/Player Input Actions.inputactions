@@ -90,7 +90,7 @@
                     "name": "Stomp",
                     "type": "Button",
                     "id": "010b42d7-32ab-4e0c-87a7-ad984d342ee8",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
