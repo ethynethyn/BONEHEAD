@@ -164,7 +164,7 @@ PlayerSettings:
   androidMinAspectRatio: 1
   applicationIdentifier:
     Android: com.PLAYERTWO.platformerproject
-    Standalone: com.PLAYERTWO.platformer-project
+    Standalone: com.DefaultCompany.BONEHEAD-ISLAND
   buildNumber:
     Standalone: 0
     VisionOS: 0
