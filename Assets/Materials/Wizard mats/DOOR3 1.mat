@@ -25,7 +25,6 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - DR_ENABLE_LIGHTMAP_DIR
   - _CELPRIMARYMODE_SINGLE
   - _TEXTUREBLENDINGMODE_MULTIPLY
   m_InvalidKeywords:
@@ -150,7 +149,7 @@ Material:
     - _OcclusionStrength: 1
     - _OutlineDepthOffset: 0
     - _OutlineScale: 1.03
-    - _OutlineWidth: 9.53
+    - _OutlineWidth: 277.16
     - _OverrideLightmapDir: 0
     - _Parallax: 0.005
     - _QueueOffset: 0
